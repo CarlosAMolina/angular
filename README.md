@@ -6,6 +6,7 @@ Project to learn Angular.
 
 ```bash
 cd PROJECT-FOLDER
+npm install
 ng serve --open
 ```
 
