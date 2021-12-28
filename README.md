@@ -6,6 +6,7 @@ Project to learn Angular.
 
 ```bash
 cd PROJECT-FOLDER
+npm install # Install node packages if it is the first time
 ng serve --port 4200 --open
 ```
 
