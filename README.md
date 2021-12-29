@@ -23,6 +23,21 @@ cd dist
 ng serve --port 4200 --open
 ```
 
+## Deploy
+
+The `index.html` file must have this value:
+
+```bash
+    <base href="." />
+```
+
+Not this one:
+
+```bash
+    <base href="/" />
+```
+
+
 ## References
 
 - Set up
