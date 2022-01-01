@@ -6,6 +6,8 @@
 
 ## Requirements
 
+To use a memory web api server:
+
 ```bash
 npm install angular-in-memory-web-api --save
 ```
@@ -35,7 +37,7 @@ Modify the following files:
 Install the `requirements.txt` file and run the Flask app:
 
 ```bash
-  python src/app.py
+  python src/flask_/app.py
 ```
 
 Run the angular app as usual.
