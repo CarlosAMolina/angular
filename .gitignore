@@ -42,6 +42,9 @@ yarn-error.log
 testem.log
 typings
 
+# Python
+env/
+
 # System Files
 .DS_Store
 Thumbs.db
