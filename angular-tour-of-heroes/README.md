@@ -1,19 +1,20 @@
 ## Table of contents
 
 - [Requirements](#requirements)
-- [Work with Flask](#work-with-flask)
+  - [Work with a memory web api server:](#work-with-a-memory-web-api-server)
+  - [Work with Flask](#work-with-flask)
 - [Resources](#resources)
+
 
 ## Requirements
 
-To use a memory web api server:
+### Work with a memory web api server:
 
 ```bash
 npm install angular-in-memory-web-api --save
 ```
 
-
-## Work with Flask
+### Work with Flask
 
 Note. Not all the hero methods (add, update, delete...) are implemented.
 
