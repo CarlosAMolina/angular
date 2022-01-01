@@ -1,14 +1,14 @@
 ## Table of contents
 
 - [Requirements](#requirements)
-  - [Work with a memory web api server:](#work-with-a-memory-web-api-server)
+  - [Work with a memory web api server](#work-with-a-memory-web-api-server)
   - [Work with Flask](#work-with-flask)
 - [Resources](#resources)
 
 
 ## Requirements
 
-### Work with a memory web api server:
+### Work with a memory web api server
 
 ```bash
 npm install angular-in-memory-web-api --save
