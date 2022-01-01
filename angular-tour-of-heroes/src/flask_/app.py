@@ -15,7 +15,7 @@ def heroes():
         { "id": 19, "name": 'Magma' },
         { "id": 20, "name": 'Tornado' }
     ];
-    # https://werkzeug.palletsprojects.com/en/2.0.x/wrappers/#werkzeug.wrappers.Response
+    # https://flask.palletsprojects.com/en/2.0.x/api/#flask.Response
     resp = Response(
         response=json.dumps(heroes),
         content_type="application/json",
